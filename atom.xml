@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.msbrg.net/"/>
-  <updated>2019-12-05T15:14:03.088Z</updated>
+  <updated>2019-12-06T15:24:34.950Z</updated>
   <id>http://blog.msbrg.net/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>second-deploy-test</title>
+    <link href="http://blog.msbrg.net/2019/12/06/second-deploy-test/"/>
+    <id>http://blog.msbrg.net/2019/12/06/second-deploy-test/</id>
+    <published>2019-12-06T15:23:40.000Z</published>
+    <updated>2019-12-06T15:24:34.950Z</updated>
+    
+    <content type="html"><![CDATA[<p>#Deploy test nr 2.</p><p>Using DNS redirector via github. Setting up webhotel to use this.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;#Deploy test nr 2.&lt;/p&gt;
+&lt;p&gt;Using DNS redirector via github. Setting up webhotel to use this.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>deploy-test</title>
