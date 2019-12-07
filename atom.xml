@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.msbrg.net/"/>
-  <updated>2019-12-06T15:24:34.950Z</updated>
+  <updated>2019-12-07T23:23:31.248Z</updated>
   <id>http://blog.msbrg.net/</id>
   
   <author>
@@ -17,61 +17,21 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>second-deploy-test</title>
-    <link href="http://blog.msbrg.net/2019/12/06/second-deploy-test/"/>
-    <id>http://blog.msbrg.net/2019/12/06/second-deploy-test/</id>
-    <published>2019-12-06T15:23:40.000Z</published>
-    <updated>2019-12-06T15:24:34.950Z</updated>
+    <title>Introduction</title>
+    <link href="http://blog.msbrg.net/2019/12/07/Introduction/"/>
+    <id>http://blog.msbrg.net/2019/12/07/Introduction/</id>
+    <published>2019-12-07T00:39:56.000Z</published>
+    <updated>2019-12-07T23:23:31.248Z</updated>
     
-    <content type="html"><![CDATA[<p>#Deploy test nr 2.</p><p>Using DNS redirector via github. Setting up webhotel to use this.</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;#Deploy test nr 2.&lt;/p&gt;
-&lt;p&gt;Using DNS redirector via github. Setting up webhotel to use this.&lt;/p&gt;
-
-      
-    
-    </summary>
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>deploy-test</title>
-    <link href="http://blog.msbrg.net/2019/12/05/deploy-test/"/>
-    <id>http://blog.msbrg.net/2019/12/05/deploy-test/</id>
-    <published>2019-12-05T15:13:44.000Z</published>
-    <updated>2019-12-05T15:14:03.088Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-    
-    
-      <category term="deploy" scheme="http://blog.msbrg.net/tags/deploy/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Where am i? What is this?</title>
-    <link href="http://blog.msbrg.net/2019/12/04/My-New-Post/"/>
-    <id>http://blog.msbrg.net/2019/12/04/My-New-Post/</id>
-    <published>2019-12-04T12:26:05.000Z</published>
-    <updated>2019-12-04T12:35:39.238Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to my blog! This is my first post. Who am i? …</p><p>Check my <a href="https://github.com/lemorz56" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Introduction"><a href="#Quick-Introduction" class="headerlink" title="Quick Introduction"></a>Quick Introduction</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>]]></content>
+    <content type="html"><![CDATA[<p>#Welcome to my blog! (This might get updated once in a while)</p><p>My name is Sebastian Mossberg.</p><p>The reason i started this blog is to document my progress towards becoming a Software Developer.<br>Im not only going to post according to that. I’m also going to post things that I’m learning at the moment together with my thoughts on Tech &amp; Programming things.</p><p>If you want to read information about me feel free to click on [About] (<a href="http://blog.msbrg.net/about/">http://blog.msbrg.net/about/</a>) at the top.</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;Welcome to my blog! This is my first post. Who am i? …&lt;/p&gt;
-&lt;p&gt;Check my &lt;a href=&quot;https://github.com/lemorz56&quot; target=&quot;_blank&quot; rel=&quot;noopene
+        &lt;p&gt;#Welcome to my blog! (This might get updated once in a while)&lt;/p&gt;
+&lt;p&gt;My name is Sebastian Mossberg.&lt;/p&gt;
+&lt;p&gt;The reason i started this blog
       
     
     </summary>
