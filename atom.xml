@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.msbrg.net/"/>
-  <updated>2019-12-07T23:23:31.248Z</updated>
+  <updated>2019-12-07T23:29:16.207Z</updated>
   <id>http://blog.msbrg.net/</id>
   
   <author>
@@ -21,17 +21,15 @@
     <link href="http://blog.msbrg.net/2019/12/07/Introduction/"/>
     <id>http://blog.msbrg.net/2019/12/07/Introduction/</id>
     <published>2019-12-07T00:39:56.000Z</published>
-    <updated>2019-12-07T23:23:31.248Z</updated>
+    <updated>2019-12-07T23:29:16.207Z</updated>
     
-    <content type="html"><![CDATA[<p>#Welcome to my blog! (This might get updated once in a while)</p><p>My name is Sebastian Mossberg.</p><p>The reason i started this blog is to document my progress towards becoming a Software Developer.<br>Im not only going to post according to that. I’m also going to post things that I’m learning at the moment together with my thoughts on Tech &amp; Programming things.</p><p>If you want to read information about me feel free to click on [About] (<a href="http://blog.msbrg.net/about/">http://blog.msbrg.net/about/</a>) at the top.</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Welcome-to-my-blog-This-might-get-updated-once-in-a-while"><a href="#Welcome-to-my-blog-This-might-get-updated-once-in-a-while" class="headerlink" title="Welcome to my blog! (This might get updated once in a while)"></a>Welcome to my blog! (This might get updated once in a while)</h2><h3 id="My-name-is-Sebastian-Mossberg"><a href="#My-name-is-Sebastian-Mossberg" class="headerlink" title="My name is Sebastian Mossberg."></a>My name is Sebastian Mossberg.</h3><p>The reason i started this blog is to document my progress towards becoming a <strong>Software Developer</strong>.<br>Im not only going to post about that. I’m also going to post things that I’m learning at the moment together with my thoughts on Tech &amp; Programming things.</p><p>If you want to read information about me feel free to click on <a href="http://blog.msbrg.net/about/">About</a> at the top.</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;p&gt;#Welcome to my blog! (This might get updated once in a while)&lt;/p&gt;
-&lt;p&gt;My name is Sebastian Mossberg.&lt;/p&gt;
-&lt;p&gt;The reason i started this blog
+        &lt;h2 id=&quot;Welcome-to-my-blog-This-might-get-updated-once-in-a-while&quot;&gt;&lt;a href=&quot;#Welcome-to-my-blog-This-might-get-updated-once-in-a-while&quot; clas
       
     
     </summary>
