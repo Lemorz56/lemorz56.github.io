@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://blog.msbrg.net/2019/12/07/Introduction/</loc>
+    <loc>http://blog.msbrg.net/2020/01/03/Update/</loc>
     
-    <lastmod>2019-12-07T23:29:16.207Z</lastmod>
+    <lastmod>2021-02-25T10:32:57.254Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://blog.msbrg.net/about/index.html</loc>
     
-    <lastmod>2019-12-05T15:10:19.711Z</lastmod>
+    <lastmod>2021-02-25T10:30:29.938Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://blog.msbrg.net/2019/12/07/Introduction/</loc>
+    
+    <lastmod>2019-12-07T23:31:22.699Z</lastmod>
     
   </url>
   

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.msbrg.net/"/>
-  <updated>2019-12-07T23:29:16.207Z</updated>
+  <updated>2021-02-25T10:32:57.254Z</updated>
   <id>http://blog.msbrg.net/</id>
   
   <author>
@@ -17,11 +17,37 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Update!</title>
+    <link href="http://blog.msbrg.net/2020/01/03/Update/"/>
+    <id>http://blog.msbrg.net/2020/01/03/Update/</id>
+    <published>2020-01-03T18:10:00.000Z</published>
+    <updated>2021-02-25T10:32:57.254Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="UPDATE"><a href="#UPDATE" class="headerlink" title="UPDATE"></a>UPDATE</h1><p>Hi! I’m back! I took a pause from the blog. My thought was to start in 2020, so it’s about time i start!<br>What have i been doing? Well I’m on Christmas Break right now from school and i’ve been looking a lot more into C++. Both for Embedded and not Embedded. I’m still working on my <a href="https://github.com/Lemorz56/OperationTundra" target="_blank" rel="noopener"><em>2D Game Engine</em></a> but it’s on hold right now, last thing i did was fixing user input. </p><p>Moving on, i dived into C# Which i haven’t touched in a few years. Did some basic stuff and hopped into the Unity Game Engine and fibbled around with it while making a few simple games.</p><p>Since im a fan of F1, and like to play F1 2020 so I decided to create a UDP Telemetry app in C! Haven’t gotten it up on Github while writing this but will soon! It was quite interesting to work with packets and trying to recieve data from the game. Took some reading and to get the package right! I also tried another route with using Node.JS and Javascript to display it on a local server. So i could understand the data i was receiving at first. It was pretty cool!</p><p>I’m trying to use my spare time to combine hobbies and coding into learning. Like coding games and what not. I’ll keep this blog updated on what <em>I’m doing,</em> <em>what I’m learning,</em> and whats happening.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;UPDATE&quot;&gt;&lt;a href=&quot;#UPDATE&quot; class=&quot;headerlink&quot; title=&quot;UPDATE&quot;&gt;&lt;/a&gt;UPDATE&lt;/h1&gt;&lt;p&gt;Hi! I’m back! I took a pause from the blog. My thought
+      
+    
+    </summary>
+    
+    
+    
+      <category term="update" scheme="http://blog.msbrg.net/tags/update/"/>
+    
+      <category term="personal" scheme="http://blog.msbrg.net/tags/personal/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Introduction</title>
     <link href="http://blog.msbrg.net/2019/12/07/Introduction/"/>
     <id>http://blog.msbrg.net/2019/12/07/Introduction/</id>
     <published>2019-12-07T00:39:56.000Z</published>
-    <updated>2019-12-07T23:29:16.207Z</updated>
+    <updated>2019-12-07T23:31:22.699Z</updated>
     
     <content type="html"><![CDATA[<h2 id="Welcome-to-my-blog-This-might-get-updated-once-in-a-while"><a href="#Welcome-to-my-blog-This-might-get-updated-once-in-a-while" class="headerlink" title="Welcome to my blog! (This might get updated once in a while)"></a>Welcome to my blog! (This might get updated once in a while)</h2><h3 id="My-name-is-Sebastian-Mossberg"><a href="#My-name-is-Sebastian-Mossberg" class="headerlink" title="My name is Sebastian Mossberg."></a>My name is Sebastian Mossberg.</h3><p>The reason i started this blog is to document my progress towards becoming a <strong>Software Developer</strong>.<br>Im not only going to post about that. I’m also going to post things that I’m learning at the moment together with my thoughts on Tech &amp; Programming things.</p><p>If you want to read information about me feel free to click on <a href="http://blog.msbrg.net/about/">About</a> at the top.</p>]]></content>
     
